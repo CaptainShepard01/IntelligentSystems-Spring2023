@@ -1,3 +1,6 @@
 .idea
 **/.ipynb_checkpoints
 **/*.csv
+donor
+**/*.zip
+**/datasets

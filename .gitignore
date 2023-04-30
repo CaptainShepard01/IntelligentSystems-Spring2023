@@ -4,3 +4,4 @@
 donor
 **/*.zip
 **/datasets
+**/*.data

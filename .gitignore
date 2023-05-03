@@ -5,3 +5,4 @@ donor
 **/*.zip
 **/datasets
 **/*.data
+**/*.my_logs

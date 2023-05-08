@@ -6,5 +6,3 @@ donor
 **/datasets
 **/*.data
 **/*my_logs
-
-!Exam/datasets/Expanded_data_with_more_features.csv
